@@ -13,3 +13,6 @@ produto, instanciar um produto e exibir na tela os campos do produto criado. Lei
 de outro produto, instancie outro produto e exiba na tela os campos do produto criado
 (utilize os dois construtores). Depois altere os campos do produto criado anteriormente.
 Exiba novamente na tela os dados do produto
+
+# Como acessar 
+Clone este repositório para o ambiente local.
